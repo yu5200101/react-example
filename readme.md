@@ -8,11 +8,13 @@
       + action-types.js 所有动作类型
       + index.js 产生store
       + action 
-       + index.js
+       
+         + index.js
       + reducer 处理动作派发
-       + counter.js 
-       + index.js 将所有的reducer合并
-       + todo.js
+       
+         + counter.js 
+         + index.js 将所有的reducer合并
+         + todo.js
             
 >打开cmd窗口使用以下命令跑环境
 
